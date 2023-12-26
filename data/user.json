@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "u101",
+        "username": "popo",
+        "fullname": "Popo McPopo",
+        "password": "secret1",
+        "score": 100
+    },
+    {
+        "_id": "u102",
+        "username": "muki",
+        "fullname": "Muki Baba",
+        "password": "muki",
+        "score": 4813
+    },
+    {
+        "username": "Aharon",
+        "password": "1234",
+        "fullname": "Mashu Mashu",
+        "score": 10000,
+        "_id": "wv0n5"
+    },
+    {
+        "username": "Bobo",
+        "password": "vobb",
+        "fullname": "Mcbobo",
+        "score": 10000,
+        "_id": "cVPQr"
+    },
+    {
+        "username": "risan",
+        "password": "risan",
+        "fullname": "risan ben",
+        "score": 10000,
+        "_id": "vD1HN"
+    }
+]
